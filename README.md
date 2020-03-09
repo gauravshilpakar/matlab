@@ -1,6 +1,8 @@
-# matlab
-BASIC MATLAB FUNCTIONS AND PROGRAMS
+# ECE-1304 Intro to MATLAB - Spring 2018 - TTU
 
+## Assignments and Projects From Professor Bernussi Ayrton's Class
+
+### Directory Tree
 1.	Prompts the user to enter a coefficient alpha and display the functions cos(x), +/- exp(-alpha*x), and cos(x)*exp(-alpha*x)
 2.	Plots of step function
 3.	Finds numerically the root the expression in the interval [0,5]
